@@ -1,3 +1,3 @@
 # Deep Learning
 
-This repository dedicated to learn and implement Deep Learning techniques
+This repository is dedicated to learn and implement Deep Learning techniques
